@@ -2,7 +2,7 @@ package String;
 
 import java.util.Arrays;
 
-public class Anargam {
+public class Anargram {
     public static void main(String[] args) {
         String s1="care";
         String s2="race";
